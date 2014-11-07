@@ -48,7 +48,7 @@ if( $debug )
 <title>updata form</title>
 </head>
 <body>
-<form action="delete8.php" method="POST" enctype="multipart/form-data">
+<form action="delete.php" method="POST" enctype="multipart/form-data">
 <div>
 file：
   <input type="file" name="upfile">

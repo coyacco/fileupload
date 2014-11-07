@@ -56,7 +56,7 @@ $id = $grid->storeFile( "files/" . $_FILES["upfile"]["name"],
 
 ?>
 
-<a href="main8.php">top</a>
+<a href="index.php">top</a>
 </body>
 </html>
 

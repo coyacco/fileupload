@@ -4,7 +4,7 @@
 <title>sample</title>
 </head>
 <body>
-<form action="upload8.php" method="POST" enctype="multipart/form-data">
+<form action="upload.php" method="POST" enctype="multipart/form-data">
 <div>
 file：
   <input type="file" name="upfile">
